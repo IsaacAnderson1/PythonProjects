@@ -17,7 +17,7 @@ Below is a screenshot from the game that Clicker.py uses:
 
 | Clicker.py |
 |-----------------|
-| ![Target Game](target/Screenshots/targetGame.png) |
+| ![Target Game](Clicker/Screenshots/targetGame.png) |
 
 ## Contact
 
