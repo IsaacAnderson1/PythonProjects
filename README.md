@@ -13,7 +13,7 @@ This repository contains a collection of small Python projects utilizing various
 
 Below is a screenshot from the game that Clicker.py uses:
 
-| Clicker.py |
+| Clicker.py(image taken from [AimTrainer](aimtrainer.io/custom-challenge)|
 |-----------------|
 | ![Target Game](Clicker/Screenshots/targetGame.png) |
 
